@@ -40,8 +40,8 @@ jobs:
                   s = p.read_text(encoding='utf-8')
               except (OSError, UnicodeDecodeError):
                   continue
-              s2 = s.replace('<!-- b6dc18a840111b52a02d4dbc2f7643d3587a -->', gm)
-              s2 = s2.replace('<!-- b108cbf35f276a3e6d80 -->', bm)
+              s2 = s.replace('<!-- 6f4d2ce0f8604fbd8153d2f6f03650dd782b92da -->', gm)
+              s2 = s2.replace('<!-- 818bbe6ca2ffd0a88630e4bf81cd016a23 -->', bm)
               if s2 != s:
                   p.write_text(s2, encoding='utf-8')
                   count += 1
